@@ -12,7 +12,7 @@ To setup this project run
     
 ## Demo
 
-https://kelvins-tenziles-game.netlify.app/
+https://kelvins-tenzi-game.netlify.app/
 
 
 ## Screenshots
